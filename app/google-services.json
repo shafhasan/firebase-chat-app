@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067218894639",
+    "firebase_url": "https://final-project-64963.firebaseio.com",
+    "project_id": "final-project-64963",
+    "storage_bucket": "final-project-64963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067218894639:android:20163ada43f08e2d7aebda",
+        "android_client_info": {
+          "package_name": "com.shafqat.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067218894639-aa73h3vgsgr85i5m1j3vpsvks9k6enuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkH7aGX4LP2_VzJ_9EsQRY4VqvqEolANE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067218894639-aa73h3vgsgr85i5m1j3vpsvks9k6enuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
